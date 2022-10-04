@@ -1,3 +1,11 @@
+// LANGUAGE: C++
+
+// ENV : VS CODE: 
+
+// AUTHOR: Vishal Kesharwani 
+
+// GITHUB: https://github.com/vishal10kesharwani
+
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <string>
