@@ -29,7 +29,7 @@
    Bio : Student
    GitHub URL : https://github.com/AdarshKashyap14
 
-4) Name : 
-   Place : 
-   Bio : 
-   GitHub URL : 
+4) Name : Vishal Kesharwani 
+   Place : Gondia, MH
+   Bio : Student 
+   GitHub URL : https://github.com/vishal10kesharwani
